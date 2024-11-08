@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 # Status
-![](https://komarev.com/ghpvc/?username=Capadocio&color=blue&style=plastic&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=GranadoThiago&color=blue&style=plastic&abbreviated=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Capadocio&count_private=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=90,ffffff,ffffff,f9fcfe&text_color=414153)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GranadoThiago&count_private=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=90,ffffff,ffffff,f9fcfe&text_color=414153)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Capadocio&langs_count=10&layout=compact&bg_color=90,ffffff,ffffff,f9fcfe&text_color=414153)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GranadoThiago&langs_count=10&layout=compact&bg_color=90,ffffff,ffffff,f9fcfe&text_color=414153)
 
 ## Tech Stack
 
